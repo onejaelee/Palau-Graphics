@@ -7,8 +7,10 @@ Plots and Graphs for Palau
   https://esgf-data.dkrz.de/search/cmip6-dkrz/
 
   ### Files:
-   **wget folder**
+   #### get folder
    > wget script to download all relevant climate variables from selected experiment and resolution. I recommend simply making a one line bash script to run all scripts back to back.
+   #### tos_palau.ipynb
+   > Takes all .nc files downloaded by wget script and filters them to be specific to Palau's EEZ. Organizes by experiment and organization and also creates averaged DataFrame pickle files and csv.
 ## Precipitation
   ### Description:
   Uses Pacific Climate Change Data Portal, Australia BOM rainfall data and creates graph for rainfall and number of wet days (with ENSO labels)\
