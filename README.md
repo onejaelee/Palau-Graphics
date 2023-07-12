@@ -1,6 +1,15 @@
 # Palau-Graphics
 Plots and Graphs for Palau
 
+## CMIP6
+  ### Description:
+  Uses CMIP6 Climate projection model data to create projected plots and geojson Voronoi plots for climate variables.\
+  https://esgf-data.dkrz.de/search/cmip6-dkrz/
+
+  ###Files:
+  wget folder\
+    wget script to download all relevant climate variables from selected experiment and resolution. I recommend simply making a one line bash script to\
+    run all scripts back to back.
 ## Precipitation
   ### Description:
   Uses Pacific Climate Change Data Portal, Australia BOM rainfall data and creates graph for rainfall and number of wet days (with ENSO labels)\
