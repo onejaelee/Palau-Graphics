@@ -29,3 +29,9 @@ Plots and Graphs for Palau
       Creates geojson contour plots for wave height and geojson files for wave direction in the form of arrows from pickle files created from processPACCSAP.ipynb
   ### Instructions:
     Run downloadPACCSAP.ipynb, then processPACCSAP.ipynb, then contourPACCSAP.ipynb
+
+## borderOutlines.ipynb
+  Creates a geojson file that is a Polygon (rectangle) containing the entire EEZ of Palau
+
+## palauEEZ.geojson
+  geojson containing Multipolygon of the EEZ of Palau. May need to change pathing of certain file for methods like palau_eez in some notebooks.
