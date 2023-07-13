@@ -9,6 +9,12 @@ Plots and Graphs for Palau
   ### Files:
   #### cleanAltimetry.ipynb
   > Merges all Copernicus .nc files together and filters data based on a box around Palau's EEZ. Also contains legacy code creating Folium contour plots and HTML line plots and trend lines for sea level rise.
+  #### geojsonAltimetry.ipynb
+  > Creates gridded geoJSON visualization for sea level formatted for DeckGL
+### TO DO:
+  > Write script to automate Copernicus sea level download. Change color format of geoJSON.
+### Instructions:
+  Download Copernicus data, run cleanAltimetry (only first section needed for geoJSON) run geojsonAltimetry.ipynb
 
 ## CFS-CRW
   ### Description:
