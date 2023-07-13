@@ -2,6 +2,22 @@
 Plots and Graphs for Palau
 
 # Folders
+
+## CFS-CRW
+  ### Description:
+  Downloads Climate Forecast System and Coral Reef Watch data and reformats data into csv and pickle files, with varying temporal averages, used to create Voronoi diagrams (geojson files)
+  ### Files:
+  #### downloadERDDAP.ipynb
+  > Downloads CFS and CRW .nc files in chunks to not be denied access due to large file size inquiry
+  #### cleanERDDAP.ipynb
+  > Compiles CFS and CRW .nc files into singular csv and pickle files, with ability to reduce dataframe size by creating average over weeks or months.
+  #### geojsonERDDAP.ipynb
+  > Creates Voronoi diagrams from pickle DataFrames in geoJSON format.
+### TO DO:
+  > Determine way to visualize Heat wave and Coral Bleaching Alert over spans longer than a week.
+### Instructions:
+  Run downloadERDDAP.ipynb, then cleanERDDAP.ipynb, then geojsonERDDAP.ipynb
+
 ## CMIP6
   ### Description:
   Uses CMIP6 Climate projection model data to create projected plots and geojson Voronoi plots for climate variables.\
