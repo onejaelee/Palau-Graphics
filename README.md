@@ -3,6 +3,13 @@ Plots and Graphs for Palau
 
 # Folders
 
+## Copernicus-Sea-Level
+#### Description:
+  Compiles sea level gridded data from Copernicus and creates gridded geoJSON files visualizing it for DeckGL
+  ### Files:
+  #### altimetryClean.ipynb
+  > Merges all Copernicus .nc files together and filters data based on a box around Palau's EEZ. Also contains legacy code creating Folium contour plots and HTML line plots and trend lines for sea level rise.
+
 ## CFS-CRW
   ### Description:
   Downloads Climate Forecast System and Coral Reef Watch data and reformats data into csv and pickle files, with varying temporal averages, used to create Voronoi diagrams (geojson files)
