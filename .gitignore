@@ -3,6 +3,7 @@
 *.csv
 *.pkl
 *.json
+<<<<<<< HEAD
 *.png
 Chapter 3 - Rainfall/vis/Precipitation/.DS_Store
 Chapter 3 - Rainfall/vis/.DS_Store
@@ -79,3 +80,5 @@ Ocean/Chapter 7 - Biochemistry/vis/Chapter 7.2-7.3 Code/.ipynb_checkpoints/Untit
 Chapter 3 - Rainfall/.DS_Store
 Chapter 2 - Surface Temperature/.DS_Store
 .DS_Store
+=======
+>>>>>>> parent of e8c0077 (Reorganizing Repo)
