@@ -14,5 +14,5 @@ area. A statistically significant (p &lt; 0.05) decline in estimated median phyt
 over this area. From 1998 through 2022, estimated median phytoplankton size declined by 0.031 m
 Equivalent Spherical Diameter (ESD).
 
-![alt text](<vis/Chapter 7.2-7.3 Code/phyto_size.png>)
-![alt text](<vis/Chapter 7.2-7.3 Code/phyto_size_current_year.png>)
+![alt text](<../vis/Chapter 7.2-7.3 Code/phyto_size.png>)
+![alt text](<../vis/Chapter 7.2-7.3 Code/phyto_size_current_year.png>)
