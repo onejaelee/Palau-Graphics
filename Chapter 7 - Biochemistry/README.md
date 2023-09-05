@@ -1,6 +1,6 @@
 **Chapter 7 - Biochemistry**
 
-**7.1 Indicator: Chlorophyll Concentration**
+**7.2 Indicator: Chlorophyll Concentration**
 
 Phytoplankton are the foundation of the marine food web. Their abundance affects food availability for
 all consumers, ranging from zooplankton to apex predators. Chlorophyll concentration is used as a proxy
@@ -17,7 +17,7 @@ trend in chlorophyll concentration was detected over this region and time span.
 ![alt text](<vis/Chapter 7.2-7.3 Code/chlor_con.png>)
 ![alt text](<vis/Chapter 7.2-7.3 Code/chlor_con_report_year_log.png>)
 
-**7.2 Indicator: Estimated Phytoplankton Size**
+**7.3 Indicator: Estimated Phytoplankton Size**
 
 Phytoplankton size provides insight into ecosystem productivity with larger phytoplankton generally
 supporting more productive ecosystems with larger fish. Some climate change projections suggest a
