@@ -29,8 +29,8 @@ which extend back to 1998. The basin-wide average (1998 – 2021) is shown below
 highlighted as a spatial average (1998 – 2021) and a time series averaged over this area. No significant
 trend in chlorophyll concentration was detected over this region and time span.
 
-![alt text](<Chapter 7 - Biochemistry/vis/Chapter 7.2-7.3 Code/chlor_con.png>)
-![alt text](<Chapter 7 - Biochemistry/vis/Chapter 7.2-7.3 Code/chlor_con_report_year_log.png>)
+![alt text](<Chapter 7 - Biochemistry/vis/Chapter 7.2-7.3 Code/output/chlor_con.png>)
+![alt text](<Chapter 7 - Biochemistry/vis/Chapter 7.2-7.3 Code/output/chlor_con_report_year_log.png>)
 
 **7.3 Indicator: Estimated Phytoplankton Size**
 
@@ -48,8 +48,8 @@ area. A statistically significant (p &lt; 0.05) decline in estimated median phyt
 over this area. From 1998 through 2022, estimated median phytoplankton size declined by 0.031 m
 Equivalent Spherical Diameter (ESD).
 
-![alt text](<Chapter 7 - Biochemistry/vis/Chapter 7.2-7.3 Code/phyto_size.png>)
-![alt text](<Chapter 7 - Biochemistry/vis/Chapter 7.2-7.3 Code/phyto_size_current_year.png>)
+![alt text](<Chapter 7 - Biochemistry/vis/Chapter 7.2-7.3 Code/output/phyto_size.png>)
+![alt text](<Chapter 7 - Biochemistry/vis/Chapter 7.2-7.3 Code/output/phyto_size_current_year.png>)
 
 
 
